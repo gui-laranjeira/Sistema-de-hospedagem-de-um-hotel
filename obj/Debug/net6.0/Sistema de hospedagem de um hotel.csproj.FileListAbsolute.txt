@@ -1,0 +1,15 @@
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.exe
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.deps.json
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.runtimeconfig.json
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.dll
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\bin\Debug\net6.0\Sistema de hospedagem de um hotel.pdb
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.csproj.AssemblyReference.cache
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.AssemblyInfoInputs.cache
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.AssemblyInfo.cs
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.csproj.CoreCompileInputs.cache
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.dll
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\refint\Sistema de hospedagem de um hotel.dll
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.pdb
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\Sistema de hospedagem de um hotel.genruntimeconfig.cache
+C:\workspace\.net Development\Anotações\Sistema de hospedagem de um hotel\obj\Debug\net6.0\ref\Sistema de hospedagem de um hotel.dll
